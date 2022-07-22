@@ -12,3 +12,5 @@ for j in range(2, put + 1):
         primes.append(j)
 print(primes)
 print(f"Total prime numbers till {put} are {len(primes)}")
+
+print("hello world")
